@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project name="C:\xampp\htdocs\TP 4\for each 1\for each 1.clpprj">
+	<settings><PM_URL><![CDATA[http://localhost/TP 4/for each 1/]]></PM_URL><PM_HOME_URL><![CDATA[http://localhost/TP 4/for each 1/]]></PM_HOME_URL><PM_LIBS><![CDATA[]]></PM_LIBS><PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION><PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR><PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE></settings><removed value=";"/><added value=""/><lastopfiles>
+		<file name="C:\xampp\htdocs\TP 4\for each 1\index.php"/>
+	</lastopfiles>
+	<errors version="5.3">
+	</errors>
+	<codestructure version="5.0">
+		<phptree>
+			<treenode node="equipo;PHP:Var Name;C:\xampp\htdocs\TP 4\for each 1\index.php;f0;2;7;2;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="jugador;PHP:Var Name;C:\xampp\htdocs\TP 4\for each 1\index.php;f30;4;38;4;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="posicion;PHP:Var Name;C:\xampp\htdocs\TP 4\for each 1\index.php;f19;4;28;4;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+		</phptree>
+		<jstree>
+		</jstree>
+		<scsstree>
+		</scsstree>
+		<lesstree>
+		</lesstree>
+	</codestructure><cakedata>
+	</cakedata>
+	<dplmenupath>
+	</dplmenupath><laravael>
+	</laravael><smartyassings>
+	</smartyassings><twigtemplate>
+	</twigtemplate><yiidata>
+	</yiidata>
+	<todoblock>
+	</todoblock>
+	<dbgurls>
+	</dbgurls>
+	<filescache>
+		<file name="C:\xampp\htdocs\TP 4\for each 1\index.php" crc="-92173908"/>
+	</filescache>
+</project>

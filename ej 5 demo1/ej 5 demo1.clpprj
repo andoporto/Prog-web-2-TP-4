@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project name="C:\xampp\htdocs\TP 4\ej 5 demo1\ej 5 demo1.clpprj">
+	<settings><PM_URL><![CDATA[http://localhost/TP 4/ej 5 demo1/]]></PM_URL><PM_HOME_URL><![CDATA[http://localhost/TP 4/ej 5 demo1/]]></PM_HOME_URL><PM_LIBS><![CDATA[]]></PM_LIBS><PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION><PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR><PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE></settings><removed value=";"/><added value=""/><lastopfiles>
+		<file name="C:\xampp\htdocs\TP 4\ej 5 demo1\index.php"/>
+	</lastopfiles>
+	<errors version="5.3">
+	</errors>
+	<codestructure version="5.0">
+		<phptree>
+			<treenode node="clave;PHP:Var Name;C:\xampp\htdocs\TP 4\ej 5 demo1\Codelobster0.php;f18;5;24;5;;C:\xampp\htdocs\TP 4\ej 5 demo1\index.php;f18;3;24;3;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="pepe;PHP:Var Name;C:\xampp\htdocs\TP 4\ej 5 demo1\Codelobster0.php;f0;1;5;1;;C:\xampp\htdocs\TP 4\ej 5 demo1\index.php;f0;1;5;1;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="valor;PHP:Var Name;C:\xampp\htdocs\TP 4\ej 5 demo1\Codelobster0.php;f28;5;34;5;;C:\xampp\htdocs\TP 4\ej 5 demo1\index.php;f28;3;34;3;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+		</phptree>
+		<jstree>
+		</jstree>
+		<scsstree>
+		</scsstree>
+		<lesstree>
+		</lesstree>
+	</codestructure><cakedata>
+	</cakedata>
+	<dplmenupath>
+	</dplmenupath><laravael>
+	</laravael><smartyassings>
+	</smartyassings><twigtemplate>
+	</twigtemplate><yiidata>
+	</yiidata>
+	<todoblock>
+	</todoblock>
+	<dbgurls>
+	</dbgurls>
+	<filescache>
+		<file name="C:\xampp\htdocs\TP 4\ej 5 demo1\index.php" crc="-89723964"/>
+	</filescache>
+</project>

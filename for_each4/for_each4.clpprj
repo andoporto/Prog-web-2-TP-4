@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project name="C:\xampp\htdocs\TP 4\for_each4\for_each4.clpprj">
+	<settings><PM_URL><![CDATA[http://localhost/TP 4/for_each4/]]></PM_URL><PM_HOME_URL><![CDATA[http://localhost/TP 4/for_each4/]]></PM_HOME_URL><PM_LIBS><![CDATA[]]></PM_LIBS><PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION><PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR><PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE></settings><removed value=";"/><added value=""/><lastopfiles>
+	</lastopfiles>
+	<errors version="5.3">
+	</errors>
+	<codestructure version="5.0">
+		<phptree>
+			<treenode node="array;PHP:Var Name;C:\xampp\htdocs\TP 4\for_each4\Codelobster0.php;f0;1;6;1;;C:\xampp\htdocs\TP 4\for_each4\index.php;f0;1;6;1;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="valor;PHP:Var Name;C:\xampp\htdocs\TP 4\for_each4\Codelobster0.php;f20;2;26;2;;C:\xampp\htdocs\TP 4\for_each4\index.php;f20;2;26;2;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+		</phptree>
+		<jstree>
+		</jstree>
+		<scsstree>
+		</scsstree>
+		<lesstree>
+		</lesstree>
+	</codestructure><cakedata>
+	</cakedata>
+	<dplmenupath>
+	</dplmenupath><laravael>
+	</laravael><smartyassings>
+	</smartyassings><twigtemplate>
+	</twigtemplate><yiidata>
+	</yiidata>
+	<todoblock>
+	</todoblock>
+	<dbgurls>
+	</dbgurls>
+	<filescache>
+		<file name="C:\xampp\htdocs\TP 4\for_each4\index.php" crc="-784053147"/>
+	</filescache>
+</project>

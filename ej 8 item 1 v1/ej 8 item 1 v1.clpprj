@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project name="C:\xampp\htdocs\TP 4\ej 8 item 1 v1\ej 8 item 1 v1.clpprj">
+	<settings><PM_URL><![CDATA[http://localhost/TP 4/ej 8 item 1 v1/]]></PM_URL><PM_HOME_URL><![CDATA[http://localhost/TP 4/ej 8 item 1 v1/]]></PM_HOME_URL><PM_LIBS><![CDATA[]]></PM_LIBS><PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION><PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR><PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE></settings><removed value=";C:\xampp\htdocs\TP 4\ej 8 item 1 v1\Codelobster0.pl;"/><added value=""/><lastopfiles>
+		<file name="C:\xampp\htdocs\TP 4\ej 8 item 1 v1\index.php"/>
+	</lastopfiles>
+	<errors version="5.3">
+	</errors>
+	<codestructure version="5.0">
+		<phptree>
+			<treenode node="CO;PHP:Var Name;C:\xampp\htdocs\TP 4\ej 8 item 1 v1\Codelobster0.php;f14;1;17;1;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="cuenta;PHP:Var Name;C:\xampp\htdocs\TP 4\ej 8 item 1 v1\index.php;f4;2;11;2;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="FI;PHP:Var Name;C:\xampp\htdocs\TP 4\ej 8 item 1 v1\Codelobster0.php;f9;1;12;1;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="i;PHP:Var Name;C:\xampp\htdocs\TP 4\ej 8 item 1 v1\index.php;f8;3;10;3;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="j;PHP:Var Name;C:\xampp\htdocs\TP 4\ej 8 item 1 v1\index.php;f12;5;14;5;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="mat;PHP:Var Name;C:\xampp\htdocs\TP 4\ej 8 item 1 v1\Codelobster0.php;f4;1;8;1;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+		</phptree>
+		<jstree>
+		</jstree>
+		<scsstree>
+		</scsstree>
+		<lesstree>
+		</lesstree>
+	</codestructure><cakedata>
+	</cakedata>
+	<dplmenupath>
+	</dplmenupath><laravael>
+	</laravael><smartyassings>
+	</smartyassings><twigtemplate>
+	</twigtemplate><yiidata>
+	</yiidata>
+	<todoblock>
+	</todoblock>
+	<filescache>
+		<file name="C:\xampp\htdocs\TP 4\ej 8 item 1 v1\index.php" crc="-375737055"/>
+	</filescache>
+</project>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project name="C:\xampp\htdocs\TP 4\for_each2\for_each2.clpprj">
+	<settings><PM_URL><![CDATA[http://localhost/TP 4/for_each2/]]></PM_URL><PM_HOME_URL><![CDATA[http://localhost/TP 4/for_each2/]]></PM_HOME_URL><PM_LIBS><![CDATA[]]></PM_LIBS><PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION><PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR><PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE></settings><removed value=";"/><added value=""/><lastopfiles>
+	</lastopfiles>
+	<errors version="5.3">
+	</errors>
+	<codestructure version="5.0">
+		<phptree>
+			<treenode node="array;PHP:Var Name;C:\xampp\htdocs\TP 4\for_each2\Codelobster0.php;f1;2;7;2;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="i;PHP:Var Name;C:\xampp\htdocs\TP 4\for_each2\Codelobster0.php;f5;8;7;8;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="longitud;PHP:Var Name;C:\xampp\htdocs\TP 4\for_each2\Codelobster0.php;f1;5;10;5;;;;vposint;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="nombre;PHP:Var Name;C:\xampp\htdocs\TP 4\for_each2\Codelobster0.php;f1;1;8;1;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+		</phptree>
+		<jstree>
+		</jstree>
+		<scsstree>
+		</scsstree>
+		<lesstree>
+		</lesstree>
+	</codestructure><cakedata>
+	</cakedata>
+	<dplmenupath>
+	</dplmenupath><laravael>
+	</laravael><smartyassings>
+	</smartyassings><twigtemplate>
+	</twigtemplate><yiidata>
+	</yiidata>
+	<todoblock>
+	</todoblock>
+	<dbgurls>
+	</dbgurls>
+	<filescache>
+		<file name="C:\xampp\htdocs\TP 4\for_each2\index.php" crc="1643948526"/>
+	</filescache>
+</project>

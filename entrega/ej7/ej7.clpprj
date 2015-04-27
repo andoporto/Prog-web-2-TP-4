@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project name="C:\xampp\htdocs\TP 4\ej7\ej7.clpprj">
+	<settings><PM_URL><![CDATA[http://localhost/TP 4/ej7/]]></PM_URL><PM_HOME_URL><![CDATA[http://localhost/TP 4/ej7/]]></PM_HOME_URL><PM_LIBS><![CDATA[]]></PM_LIBS><PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION><PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR><PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE></settings><removed value=";"/><added value=""/><lastopfiles>
+		<file name="C:\xampp\htdocs\TP 4\ej7\index.php"/>
+	</lastopfiles>
+	<errors version="5.3">
+	</errors>
+	<codestructure version="5.0">
+		<phptree>
+			<treenode node="elem;PHP:Var Name;C:\xampp\htdocs\TP 4\ej7\Codelobster0.php;f19;4;24;4;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="maximo;PHP:Var Name;C:\xampp\htdocs\TP 4\ej7\Codelobster0.php;f1;12;8;12;;;;vposmixed;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="minimo;PHP:Var Name;C:\xampp\htdocs\TP 4\ej7\Codelobster0.php;f1;16;8;16;;;;vposmixed;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="multi;PHP:Var Name;C:\xampp\htdocs\TP 4\ej7\Codelobster0.php;f1;20;7;20;;;;vposmixed;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="pepe;PHP:Var Name;C:\xampp\htdocs\TP 4\ej7\Codelobster0.php;f1;1;6;1;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+		</phptree>
+		<jstree>
+		</jstree>
+		<scsstree>
+		</scsstree>
+		<lesstree>
+		</lesstree>
+	</codestructure><cakedata>
+	</cakedata>
+	<dplmenupath>
+	</dplmenupath><laravael>
+	</laravael><smartyassings>
+	</smartyassings><twigtemplate>
+	</twigtemplate><yiidata>
+	</yiidata>
+	<todoblock>
+	</todoblock>
+	<dbgurls>
+	</dbgurls>
+	<filescache>
+		<file name="C:\xampp\htdocs\TP 4\ej7\index.php" crc="2044788158"/>
+	</filescache>
+</project>

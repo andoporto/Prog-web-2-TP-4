@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project name="C:\xampp\htdocs\TP 4\am_pm3\am_pm3.clpprj">
+	<settings><PM_URL><![CDATA[http://localhost/TP 4/am_pm3/]]></PM_URL><PM_HOME_URL><![CDATA[http://localhost/TP 4/am_pm3/]]></PM_HOME_URL><PM_LIBS><![CDATA[]]></PM_LIBS><PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION><PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR><PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE></settings><removed value=";"/><added value=""/><lastopfiles>
+		<file name="C:\xampp\htdocs\TP 4\am_pm3\index.php"/>
+	</lastopfiles>
+	<errors version="5.3">
+	</errors>
+	<codestructure version="5.0">
+		<phptree>
+			<treenode node="currentDateTime;PHP:Var Name;C:\xampp\htdocs\TP 4\am_pm3\Codelobster0.php;f1;3;17;3;;C:\xampp\htdocs\TP 4\am_pm3\index.php;f1;3;17;3;;;;vposstring;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="newDateTime;PHP:Var Name;C:\xampp\htdocs\TP 4\am_pm3\Codelobster0.php;f1;4;13;4;;C:\xampp\htdocs\TP 4\am_pm3\index.php;f1;4;13;4;;;;vposstring;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="stime;PHP:Var Name;C:\xampp\htdocs\TP 4\am_pm3\Codelobster0.php;f1;7;7;7;;C:\xampp\htdocs\TP 4\am_pm3\index.php;f1;7;7;7;;;;vposstring;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+		</phptree>
+		<jstree>
+		</jstree>
+		<scsstree>
+		</scsstree>
+		<lesstree>
+		</lesstree>
+	</codestructure><cakedata>
+	</cakedata>
+	<dplmenupath>
+	</dplmenupath><laravael>
+	</laravael><smartyassings>
+	</smartyassings><twigtemplate>
+	</twigtemplate><yiidata>
+	</yiidata>
+	<todoblock>
+	</todoblock>
+	<dbgurls>
+	</dbgurls>
+	<filescache>
+		<file name="C:\xampp\htdocs\TP 4\am_pm3\index.php" crc="1816366992"/>
+	</filescache>
+</project>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project name="C:\xampp\htdocs\TP 4\prueba barra t 2\prueba barra t 2.clpprj">
+	<settings><PM_URL><![CDATA[http://localhost/TP 4/prueba barra t 2/]]></PM_URL><PM_HOME_URL><![CDATA[http://localhost/TP 4/prueba barra t 2/]]></PM_HOME_URL><PM_LIBS><![CDATA[]]></PM_LIBS><PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION><PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR><PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE></settings><removed value=";"/><added value=""/><lastopfiles>
+		<file name="C:\xampp\htdocs\TP 4\prueba barra t 2\index.php"/>
+	</lastopfiles>
+	<errors version="5.3">
+	</errors>
+	<codestructure version="5.0">
+		<phptree>
+			<treenode node="expand_escape;PHP:Function Name;C:\xampp\htdocs\TP 4\prueba barra t 2\Codelobster0.php;f0;3;1;12;;;;vpos;;v;;r;;d32,3;;b0,0;;mstring;;p">
+				<treenode node="string;PHP:Var Name;C:\xampp\htdocs\TP 4\prueba barra t 2\Codelobster0.php;f23;3;30;3;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+			</treenode>
+			<treenode node="after;PHP:Var Name;C:\xampp\htdocs\TP 4\prueba barra t 2\Codelobster0.php;f0;16;6;16;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="before;PHP:Var Name;C:\xampp\htdocs\TP 4\prueba barra t 2\Codelobster0.php;f0;15;7;15;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+		</phptree>
+		<jstree>
+		</jstree>
+		<scsstree>
+		</scsstree>
+		<lesstree>
+		</lesstree>
+	</codestructure><cakedata>
+	</cakedata>
+	<dplmenupath>
+	</dplmenupath><laravael>
+	</laravael><smartyassings>
+	</smartyassings><twigtemplate>
+	</twigtemplate><yiidata>
+	</yiidata>
+	<todoblock>
+	</todoblock>
+	<dbgurls>
+	</dbgurls>
+	<filescache>
+		<file name="C:\xampp\htdocs\TP 4\prueba barra t 2\index.php" crc="-475354954"/>
+	</filescache>
+</project>
